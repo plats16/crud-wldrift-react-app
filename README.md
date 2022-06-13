@@ -4,4 +4,6 @@
 
 -Run "nodemon index.js" in command prompt  for backend folder to run the server and connect to database.
 
--Use xampp for database.
+-Use xampp for MySQL database.
+
+-Import database.sql fle to phpmyadmin.
